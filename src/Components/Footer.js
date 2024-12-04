@@ -76,10 +76,10 @@ function Footer() {
             <p>&copy; 2023 | Developed by </p>
             <a
               className="dev-link"
-              href="https://github.com/shubho0908"
+              href="https://github.com/Shubham08805"
               target="_blank"
             >
-              Shubhojeet Bera
+              Shubham Pal
             </a>
           </div>
         </div>
